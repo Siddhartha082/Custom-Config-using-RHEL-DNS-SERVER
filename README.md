@@ -1,4 +1,4 @@
-# Coustom -Config-using-RHEL-DNS-SERVER
+# Custom -Config-using-RHEL-DNS-SERVER
 
 
 ![image](https://github.com/user-attachments/assets/959f5c0e-9a7f-4a1e-8e76-7c6b6735d0ce)
